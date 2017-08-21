@@ -1,7 +1,6 @@
 # Machine Learning Engineer Nanodegree
 ## Capstone Project
 ### Airbnb New  User Booking Dataset
-Rohan Verma  
 June 19th, 2017
 
 ---
