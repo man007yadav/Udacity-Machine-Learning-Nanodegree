@@ -1,4 +1,4 @@
-# machine-learning-nanodegree
+# Udacity-Machine-Learning-Nanodegree
 Content for Udacity's Machine Learning curriculum, which includes projects and their notebooks/reports.
 
 ## Projects
